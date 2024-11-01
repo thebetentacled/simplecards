@@ -8,4 +8,4 @@ for windows:
 for linux/osx:
 `python3 path/simplecards/main.py`
 
-this was a one-off project for a class, so I won't be updating it.
+I may be adding pygame graphics at some point.
