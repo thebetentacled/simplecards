@@ -3,8 +3,8 @@
 
 # imports
 
-import pygame
 import random
+import pygame
 
 # pygame setup
 
@@ -77,8 +77,7 @@ def betandpull():
         print("you win")
         exit()
     else:
-        betandpull()
-        
+        betandpull()        
 
 def main():
     printrules()
